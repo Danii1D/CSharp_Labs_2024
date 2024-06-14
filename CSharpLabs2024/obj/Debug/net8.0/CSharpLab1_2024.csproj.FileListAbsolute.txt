@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\bin\Debug\net8.0\CSharpLab1_2024.exe
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\bin\Debug\net8.0\CSharpLab1_2024.deps.json
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\bin\Debug\net8.0\CSharpLab1_2024.runtimeconfig.json
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\bin\Debug\net8.0\CSharpLab1_2024.dll
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\bin\Debug\net8.0\CSharpLab1_2024.pdb
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.dll
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\refint\CSharpLab1_2024.dll
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.pdb
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\CSharpLab1_2024.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Робочий стіл\C#Labs\CSharpLb1\CSharpLabs2024\obj\Debug\net8.0\ref\CSharpLab1_2024.dll
