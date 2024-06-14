@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSharpLab_1_2024/1.0.0": {
+        "runtime": {
+          "CSharpLab_1_2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpLab_1_2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
